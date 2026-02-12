@@ -7,5 +7,9 @@ function getName(name){
 }
 
 function getRoll() {
-    return "roll number"
+    return "roll number";
+}
+
+function Sale() {
+    return "Sale";
 }
