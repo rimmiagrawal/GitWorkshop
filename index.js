@@ -13,3 +13,7 @@ function getRoll() {
 function Sale() {
     return "Sale";
 }
+
+function feature(){
+    return "screen";
+}
